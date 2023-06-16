@@ -1,10 +1,8 @@
 # Devtools_HW
-Devtools HW
 
-Сделать скрин видео выполнения задания.
-Видео засылайте в личку.
+Сделать скрин видео выполнения задания.(ссылка)
 
-1. Открыть сайт http://itcareer.pythonanywhere.com/
+Открыть сайт http://itcareer.pythonanywhere.com/
  1. Открыть Chrome DevTools
  2. Зайти в панель Elements.
  3. Найти инспектором кнопку Submit и выровнять слово Submit по центру
