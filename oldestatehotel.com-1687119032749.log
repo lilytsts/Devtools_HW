@@ -1,0 +1,3 @@
+oldestatehotel.com/:2506 Uncaught SyntaxError: missing ) after argument list
+VM87:1 Uncaught TypeError: Cannot read properties of null (reading 'style')
+    at <anonymous>:1:35
