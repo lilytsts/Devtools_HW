@@ -1,4 +1,4 @@
-## Task "Chrome DevTools" [link](https://drive.google.com/file/d/1jC2iF-y--MTTCjM9hlzroPhnTvbauPXY/view?usp=share_link).
+## Task "Chrome DevTools" [video_link](https://drive.google.com/file/d/1jC2iF-y--MTTCjM9hlzroPhnTvbauPXY/view?usp=share_link).
 
 ## Текст задания ↓↓↓
 
