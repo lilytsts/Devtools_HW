@@ -1,6 +1,6 @@
-# Devtools_HW
+## Task "Chrome DevTools" [link](https://drive.google.com/file/d/1jC2iF-y--MTTCjM9hlzroPhnTvbauPXY/view?usp=share_link).
 
-Сделать скрин видео выполнения задания.(ссылка)
+## Текст задания ↓↓↓
 
 Открыть сайт http://itcareer.pythonanywhere.com/
  1. Открыть Chrome DevTools
